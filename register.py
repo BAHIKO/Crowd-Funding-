@@ -19,7 +19,6 @@ def user_register(first_name, last_name, email, password, confirm_password,
     }
     return data
 
-
 def isValidPhoneNumber(number):
   mobile_phone = number
   mobile_list = []
