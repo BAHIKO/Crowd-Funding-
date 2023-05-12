@@ -4,7 +4,7 @@ from login import user_login
 from register import user_register
 from register import isValidPhoneNumber
 from create_project import create_project
-from view_project import view_projects
+from view_projects import view_projects
 from delete_project import delete_project
 from search import search_projects
 
